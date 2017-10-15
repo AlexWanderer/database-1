@@ -1,5 +1,5 @@
 # Elysium Project — Progressive DB
-Elysium's database repository for World of Waracraft (1.12), compatible with the [Elysium server core](https://github.com/elysium-project/server) (based on Mangos). This repository includes the full 1.12 database and  **progression patches** for 1.2 → 1.12, which, when applied, can simulate WoW as if it was at this state.
+Elysium's database repository for World of Warcraft (1.12), compatible with the [Elysium server core](https://github.com/elysium-project/server) (based on Mangos). This repository includes the full 1.12 database and  **progression patches** for 1.2 → 1.12, which, when applied, can simulate WoW as if it was at this state.
 
 ## Instructions
 There is now a new progression patcher for the database, which should be used from patch 1.7 onwards, for Elysium PvP, and we need more contributors and knowledgeable people to finish the research.
